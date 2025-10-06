@@ -1,0 +1,37 @@
+{
+  "chart": {
+    "title": "Forest certified for sustainable use",
+    "subtitle": "The area of forest, measured in hectares, which has been certified for sustainable use by and independently verified [forest certification scheme](#dod:forest-certification-schemes).",
+    "citation": "Food and Agriculture Organization of the United Nations",
+    "originalChartUrl": "https://ourworldindata.org/grapher/proportion-of-forest-area-certified-under-an-independently-verified-certification-scheme?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Lithuania",
+      "San Marino",
+      "China",
+      "Indonesia",
+      "India",
+      "Chile"
+    ]
+  },
+  "columns": {
+    "15.2.1 - Forest area certified under an independently verified certification scheme (thousands of hectares) - AG_LND_FRSTCERT": {
+      "titleShort": "15.2.1 - Forest area certified under an independently verified certification scheme (thousands of hectares) - AG_LND_FRSTCERT",
+      "titleLong": "15.2.1 - Forest area certified under an independently verified certification scheme (thousands of hectares) - AG_LND_FRSTCERT",
+      "descriptionShort": "Forest area certified under an independently verified certification scheme (thousands of hectares)",
+      "shortUnit": "",
+      "unit": "thousands of hectares",
+      "timespan": "2000-2023",
+      "type": "Numeric",
+      "conversionFactor": 1000,
+      "owidVariableId": 993615,
+      "shortName": "_15_2_1__ag_lnd_frstcert",
+      "lastUpdated": "2024-08-27",
+      "nextUpdate": "2026-08-27",
+      "citationShort": "Food and Agriculture Organization of the United Nations – processed by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations – processed by Our World in Data. “15.2.1 - Forest area certified under an independently verified certification scheme (thousands of hectares) - AG_LND_FRSTCERT” [dataset]. Food and Agriculture Organization of the United Nations, “Data from multiple sources” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/993615.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-10-06",
+  "activeFilters": {}
+}
